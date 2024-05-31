@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a network engineer looking to get into software development. I’ve been working on a number of projects recently and have grown to be very passionate about software engineering<br>I currently have a solid experience level in python and flask and am working on increasing my tech stack and knowledge. I am open to work on open source projects as well, so if my profile impressed you enough please feel free to reach out 
+I am currently a network engineer. I love being able to find new oppurtunities and I love all things tech. I’ve been working on a number of projects recently and have grown to be very passionate about software engineering<br>I currently have a solid experience level in python and flask and am working on increasing my tech stack and knowledge. I am open to work on open source projects as well, so if my profile impressed you enough please feel free to reach out 
 
 
 ## 🌐 Socials:
